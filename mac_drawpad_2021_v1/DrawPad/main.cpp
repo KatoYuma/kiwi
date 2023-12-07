@@ -1,6 +1,6 @@
 #include "DrawPad.hpp"
 #include <math.h>
-
+//shine
 void DrawMain()
 {
     Clear(kColorBlack);
